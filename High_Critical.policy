@@ -3,10 +3,9 @@
     <row PolicyID="10000" UniquePolicyID="27ca4455-46c4-4e8b-a6a4-5c3b64e6ee48" Name="High_Critical_v1" ComplianceCheckGroupID="0" Version="6.0" Description="Use the Critical and High policy to quickly scan your web applications for the most urgent and pressing vulnerabilities while not endangering production servers. This policy checks for SQL Injection, Cross-Site Scripting, and other Critical and High severity vulnerabilities." CustomPolicy="1" CustomPolicyLocation="C:\WI\Policies\High_Critical_v1.policy" SmartAssessment="1" AutoUpdate="1" BasePolicyID="1008" LastUpdatedDate="2014-09-05T02:19:55.667" PolicyCategoryID="5" IsDynamic="0" />
   </Policy>
   <SecureBase>
-    <row LanguageID="1" ProductID="1" RevisionID="1" LastUpdatedDate="2014-09-04T20:19:58.623" SchemaVersion="18" />
+    <row LanguageID="1" ProductID="1" RevisionID="2" LastUpdatedDate="2014-09-04T20:19:58.623" SchemaVersion="18" />
   </SecureBase>
   <Check_Policy>
-    <row CheckID="2365" PolicyID="10000" />
     <row CheckID="2368" PolicyID="10000" />
     <row CheckID="2370" PolicyID="10000" />
     <row CheckID="2371" PolicyID="10000" />
